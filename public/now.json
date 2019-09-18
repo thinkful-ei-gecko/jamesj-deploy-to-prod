@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "alias": "jamesj-bookmark-app",
   "name": "bookmarks-app",
   "routes": [
       {
